@@ -1,0 +1,16 @@
+EMP_ID,NAME,GENDER,SALARY,DEPT,PLACE
+1,Arjun,Male,35000,DS,Thrissur
+2,Shweta,Female,38000,DE,Kochi
+3,Anu,Female,33000,DE,Kozhikode
+4,Supriya,Female,35000,DS,Thrissur
+5,Ravi,Male,38000,BI,Kollam
+6,Krishnan,Male,34000,BI,Thrissur
+7,Sachin,Male,34000,DE,Thrissur
+8,Keerthi,Female,30000,DE,Palakkad
+9,Gopika,Female,35000,DS,Kannur
+10,Vishnu,Male,36000,BI,Kochi
+11,Aparna,Female,32000,BI,Kochi
+12,Vaishnavi,Female,38000,DS,Palakkad
+13,Anand,Male,35000,DE,Kozhikode
+14,Jaison,Male,36000,DE,Kochi
+15,Mariya,Female,32000,BI,Malappuram
